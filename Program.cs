@@ -10,9 +10,9 @@ namespace JurosSimples
             
 
             Console.Clear();
-            Console.WriteLine("+-------------+\n");
-            Console.WriteLine("|JUROS SIMPLES|\n");
-            Console.WriteLine("+-------------+\n");
+            Console.WriteLine("+-------------+");
+            Console.WriteLine("|JUROS SIMPLES|");
+            Console.WriteLine("+-------------+");
             
             Console.Write("Capital [c] (R$).......:");
             capital=Convert.ToDouble(Console.ReadLine());
